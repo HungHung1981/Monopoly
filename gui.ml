@@ -319,7 +319,8 @@ class game_gui push_layer pop_layer exit' = object(self)
 
     let init_mess = "Welcome to Monopoly!\n\n\
     Throughout the game, you can take actions on pop-ups by pressing\n\
-    the corresponding key on your keyboard.\n\n" in
+    the corresponding key on your keyboard.\n\n\
+    Monopoly with code by Anmol Kabra, Jehron Petty, Jared Junyoung Lim and Marina Chang. For Sofia\n\n" in
     init_box#add (new label init_mess);
 
     init_modal#bind_keys [

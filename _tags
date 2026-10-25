@@ -1,1 +1,1 @@
-true: package(oUnit), package(str), package(react), package(lwt), package(lambda-term), package(yojson)
+true: thread, package(oUnit), package(str), package(react), package(lwt), package(lambda-term), package(yojson), package(camomile)

@@ -99,6 +99,8 @@ let rec run_game (g : game_t) n () : unit Lwt.t =
 (** [main ()] is the main game loop for the game. It sets up the GUI
   * and runs the game. *)
 let main () =
+  print_endline
+    "Monopoly with code by Anmol Kabra, Jehron Petty, Jared Junyoung Lim and Marina Chang. For Sofia";
   let do_run, push_layer, pop_layer, exit' =
     LTerm_widget.prepare_simple_run () in
   let executer term =

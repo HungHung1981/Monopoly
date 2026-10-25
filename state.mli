@@ -59,7 +59,7 @@ type turntype =
  * Setting random to true uses the simulated rolling of two 6-sided dice.
  * Setting it to false has the players move one space upon rolling.
  * Raises errors if the [fjson] is not formatted properly. *)
-val init_state : Yojson.Basic.json -> (string * controller) list -> random:bool -> state
+val init_state : Yojson.Basic.t -> (string * controller) list -> random:bool -> state
 
 (* [do' c s] is the updated state [s'] resulting from performing command [c] on
  * state [s], according to the following specifications for the changes from
