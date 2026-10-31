@@ -231,6 +231,9 @@ let catch_nonplayer id s=
 let get_player_location id s =
   (catch_nonplayer id s).plocation |> List.nth s.board
 
+let get_player_location_index id s =
+  (catch_nonplayer id s).plocation
+
 let get_player_money id s=
   (catch_nonplayer id s).pmoney
 

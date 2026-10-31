@@ -809,17 +809,16 @@ class game_gui push_layer pop_layer exit' = object(self)
     done;
     main_box
 
-  (** [activate_board_info st pid ()] displays a modal that lists
-    * all properties on the board as well as the locations of
-    * the players on the board. The options are :
+  (** [activate_board_info st pid ()] displays the board layout and
+    * the locations of the players. The option is:
     * 1) Back : return to the human_modal *)
   method private activate_board_info st pid () =
     let spaces_modal = new game_frame in
     let list_box = new vbox in
     spaces_modal#set list_box;
 
-    let lst = State.get_all_board_spaces st in
-    let (box, adj) = self#scrollable_box `BoardSpaces lst st in
+    let (box, adj) = self#scrollable_box `Message (Board_view.render st) st in
+    list_box#add ~expand:false (new label "Monopoly Board");
     list_box#add ~expand:false (new hline);
     list_box#add box;
     spaces_modal#bind_scroller adj;

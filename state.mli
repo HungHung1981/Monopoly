@@ -281,6 +281,10 @@ val get_current_player : state -> player_id * controller
  * requires: [id] is the id of a player of the game [s].*)
 val get_player_location : player_id -> state -> board_space
 
+(* [get_player_location_index id s] is the index of the space occupied by
+ * player [id] in the board's configured order. *)
+val get_player_location_index : player_id -> state -> int
+
 (* [get_player_money id s] is the money that the player with [id] has.
  * requires: [id] is the id of a player of the game [s].*)
 val get_player_money : player_id -> state -> int

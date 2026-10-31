@@ -6,6 +6,7 @@ let test_board = Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "test_boa
 let test_board_2 = Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "test_board_2.json")
 let test_board_r = Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "test_board_railroads.json")
 let test_board_j = Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "test_board_jail.json")
+let classic_board = Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "classic.json")
 
 let one_player = [("p1",GUI)]
 let two_players = [("p1",GUI);("p2",AI1)]
@@ -19,9 +20,39 @@ let test_2_game_2p = init_state test_board_2 two_players ~random:false
 
 let test_game_r = init_state test_board_r two_players ~random:false
 let test_game_j = init_state test_board_j two_players ~random:false
+let test_classic_game = init_state classic_board one_player ~random:false
+let moved_test_game = test_game_2p |> do' (Preroll_command Roll)
 
 let test_board_spaces = ["prop1"; "Pay $200"; "Jail"; "Go To Jail";
                          "Chance: Draw a card"; "railroad";"utility";]
+
+let contains text fragment =
+  try
+    ignore (Str.search_forward (Str.regexp_string fragment) text 0);
+    true
+  with Not_found -> false
+
+let board_view_tests = [
+  "board view shows a custom board around a perimeter" >::
+  (fun _ ->
+    let rendered = Board_view.render test_game_2p |> String.concat "\n" in
+    assert_equal 0 (State.get_player_location_index "p1" test_game_2p);
+    assert_bool "first custom space is rendered" (contains rendered "prop1");
+    assert_bool "last custom space is rendered" (contains rendered "utility");
+    assert_bool "player names and balances are shown"
+      (contains rendered "A: p1 ($1500") );
+  "board view adapts to the classic board size" >::
+  (fun _ ->
+    let rendered = Board_view.render test_classic_game |> String.concat "\n" in
+    assert_bool "first classic space is rendered" (contains rendered "00");
+    assert_bool "last classic space is rendered" (contains rendered "39"));
+  "board view follows player movement" >::
+  (fun _ ->
+    let rendered = Board_view.render moved_test_game |> String.concat "\n" in
+    assert_equal 1 (State.get_player_location_index "p1" moved_test_game);
+    assert_bool "moved player marker is rendered" (contains rendered "P:A"));
+]
+
 let init_tests = [
   "init_test_game_board_spaces" >::
   (fun _ -> assert_equal test_board_spaces (get_all_board_spaces test_game_1p));
@@ -690,6 +721,7 @@ let trade_money_tests =[
 let tests =
   "state test suite"  >::: List.flatten [
     init_tests;
+    board_view_tests;
     roll_test_board_tests;
     roll_test_board_2_tests;
     railroad_tests;
