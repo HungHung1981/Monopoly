@@ -1,0 +1,399 @@
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:1:init_test_all_properties.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:1:init_test_all_properties is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:1:init_test_all_properties.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:3:init_test_all_players_2p.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:3:init_test_all_players_2p is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:3:init_test_all_players_2p.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:5:init_test_turntype.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:5:init_test_turntype is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:5:init_test_turntype.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:6:init_test_message.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:6:init_test_message is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:6:init_test_message.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:8:init_test_current_player_2p.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:8:init_test_current_player_2p is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:8:init_test_current_player_2p.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:10:init_test_player_loc_1p.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:10:init_test_player_loc_1p is successful.
+2026-10-31T15:38:37+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:10:init_test_player_loc_1p.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:12:init_test_player_loc_3p.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:12:init_test_player_loc_3p is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:12:init_test_player_loc_3p.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:14:init_test_player_cards.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:14:init_test_player_cards is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:14:init_test_player_cards.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:16:init_test_player_properties.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:16:init_test_player_properties is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:16:init_test_player_properties.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:18:init_test_player_monopoly.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:18:init_test_player_monopoly is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:18:init_test_player_monopoly.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:20:init_test_property_owner_r.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:20:init_test_property_owner_r is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:20:init_test_property_owner_r.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:22:init_test_property_group_1.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:22:init_test_property_group_1 is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:22:init_test_property_group_1.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:24:init_test_property_group_u.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:24:init_test_property_group_u is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:24:init_test_property_group_u.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:26:init_test_properties_of_group_r.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:26:init_test_properties_of_group_r is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:26:init_test_properties_of_group_r.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:28:init_test_property_cost_1.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:28:init_test_property_cost_1 is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:28:init_test_property_cost_1.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:30:init_test_property_cost_u.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:30:init_test_property_cost_u is successful.
+2026-10-31T15:38:38+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:30:init_test_property_cost_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:32:init_test_property_rent_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:32:init_test_property_rent_r is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:32:init_test_property_rent_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:35:init_test_property_dev_cost_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:35:init_test_property_dev_cost_r is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:35:init_test_property_dev_cost_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:36:init_test_property_dev_cost_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:36:init_test_property_dev_cost_u is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:36:init_test_property_dev_cost_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:39:init_test_property_dev_stage_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:39:init_test_property_dev_stage_u is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:39:init_test_property_dev_stage_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:41:init_test_property_max_dev_stag_1.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:41:init_test_property_max_dev_stag_1 is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:41:init_test_property_max_dev_stag_1.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:43:init_test_property_max_dev_stag_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:43:init_test_property_max_dev_stag_u is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:43:init_test_property_max_dev_stag_u.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:45:init_test_property_max_rent_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:45:init_test_property_max_rent_r is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:45:init_test_property_max_rent_r.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:47:init_test_trade_acceptance.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:47:init_test_trade_acceptance is successful.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:47:init_test_trade_acceptance.
+2026-10-31T15:38:39+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:49:board view shows a custom board around a perimeter.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:49:board view shows a custom board around a perimeter is successful.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:49:board view shows a custom board around a perimeter.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:51:board view follows player movement.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:51:board view follows player movement is successful.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:51:board view follows player movement.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:53:move_1_message.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:53:move_1_message is successful.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:53:move_1_message.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:55:move_1_player_loc_p1.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:55:move_1_player_loc_p1 is successful.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:55:move_1_player_loc_p1.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:57:move_1_player_money.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:57:move_1_player_money is successful.
+2026-10-31T15:38:40+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:57:move_1_player_money.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:59:move_1_pay_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:59:move_1_pay_message is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:59:move_1_pay_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:62:move_1_pay_player_loc_p2.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:62:move_1_pay_player_loc_p2 is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:62:move_1_pay_player_loc_p2.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:63:move_1_pay_player_money_p1.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:63:move_1_pay_player_money_p1 is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:63:move_1_pay_player_money_p1.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:66:move1_br_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:66:move1_br_message is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:66:move1_br_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:68:move1_br_current_player.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:68:move1_br_current_player is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:68:move1_br_current_player.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:70:move_2_pay_turntype.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:70:move_2_pay_turntype is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:70:move_2_pay_turntype.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:71:move_2_pay_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:71:move_2_pay_message is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:71:move_2_pay_message.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:74:move_2_pay_player_loc_p2.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:74:move_2_pay_player_loc_p2 is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:74:move_2_pay_player_loc_p2.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:76:move_2_pay_player_money_p1.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:76:move_2_pay_player_money_p1 is successful.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:76:move_2_pay_player_money_p1.
+2026-10-31T15:38:41+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:78:move_3_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:78:move_3_message is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:78:move_3_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:80:move_3_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:80:move_3_player_loc_p1 is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:80:move_3_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:82:move_3_player_loc_p2.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:82:move_3_player_loc_p2 is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:82:move_3_player_loc_p2.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:84:move_5_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:84:move_5_message is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:84:move_5_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:86:move_5_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:86:move_5_player_loc_p1 is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:86:move_5_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:88:move_5_p1_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:88:move_5_p1_in_jail is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:88:move_5_p1_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:89:move_5_p2_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:89:move_5_p2_in_jail is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:89:move_5_p2_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:91:move_7_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:91:move_7_message is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:91:move_7_message.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:93:move_7_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:93:move_7_player_loc_p1 is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:93:move_7_player_loc_p1.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:95:move_7_p1_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:95:move_7_p1_in_jail is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:95:move_7_p1_in_jail.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:97:move_7_roll_turntype.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:97:move_7_roll_turntype is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:97:move_7_roll_turntype.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:99:move_7_roll_current_player.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:99:move_7_roll_current_player is successful.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:99:move_7_roll_current_player.
+2026-10-31T15:38:42+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:100:move_7_roll_player_loc_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:100:move_7_roll_player_loc_p1 is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:100:move_7_roll_player_loc_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:103:move_7_roll_p2_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:103:move_7_roll_p2_in_jail is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:103:move_7_roll_p2_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:105:move_7_message.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:105:move_7_message is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:105:move_7_message.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:106:move_7_current_player.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:106:move_7_current_player is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:106:move_7_current_player.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:108:move_7_player_loc_p2.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:108:move_7_player_loc_p2 is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:108:move_7_player_loc_p2.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:110:move_7_p2_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:110:move_7_p2_in_jail is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:110:move_7_p2_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:112:move_7_pay_message.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:112:move_7_pay_message is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:112:move_7_pay_message.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:114:move_7_pay_player_loc_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:114:move_7_pay_player_loc_p1 is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:114:move_7_pay_player_loc_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:116:move_7_pay_p1_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:116:move_7_pay_p1_in_jail is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:116:move_7_pay_p1_in_jail.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:118:move_7_pay_player_money_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:118:move_7_pay_player_money_p1 is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:118:move_7_pay_player_money_p1.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:120:move2_1_turntype.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:120:move2_1_turntype is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:120:move2_1_turntype.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:122:move2_1_current_player.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:122:move2_1_current_player is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:122:move2_1_current_player.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:124:move2_1_player_loc_p2.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:124:move2_1_player_loc_p2 is successful.
+2026-10-31T15:38:43+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:124:move2_1_player_loc_p2.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:126:move2_1_nb_turntype.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:126:move2_1_nb_turntype is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:126:move2_1_nb_turntype.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:128:move2_1_nb_current_player.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:128:move2_1_nb_current_player is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:128:move2_1_nb_current_player.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:130:move2_1_nb_player_loc_p2.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:130:move2_1_nb_player_loc_p2 is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:130:move2_1_nb_player_loc_p2.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:132:move2_1_buy_turntype.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:132:move2_1_buy_turntype is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:132:move2_1_buy_turntype.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:134:move2_1_buy_current_player.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:134:move2_1_buy_current_player is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:134:move2_1_buy_current_player.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:136:move2_1_buy_player_loc_p2.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:136:move2_1_buy_player_loc_p2 is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:136:move2_1_buy_player_loc_p2.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:138:move2_1_buy_player_properties.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:138:move2_1_buy_player_properties is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:138:move2_1_buy_player_properties.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:140:move2_1_buy_monopoly.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:140:move2_1_buy_monopoly is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:140:move2_1_buy_monopoly.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:142:move2_2_message.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:142:move2_2_message is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:142:move2_2_message.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:144:move2_2_player_loc_p1.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:144:move2_2_player_loc_p1 is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:144:move2_2_player_loc_p1.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:146:move2_2_player_money.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:146:move2_2_player_money is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:146:move2_2_player_money.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:148:move2_2_pr_message.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:148:move2_2_pr_message is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:148:move2_2_pr_message.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:150:move2_2_pr_player_loc_p1.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:150:move2_2_pr_player_loc_p1 is successful.
+2026-10-31T15:38:44+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:150:move2_2_pr_player_loc_p1.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:151:move2_2_pr_player_loc_p2.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:151:move2_2_pr_player_loc_p2 is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:151:move2_2_pr_player_loc_p2.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:154:move2_2_br_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:154:move2_2_br_turntype is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:154:move2_2_br_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:155:move2_2_br_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:155:move2_2_br_message is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:155:move2_2_br_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:158:move2_2_br_player_loc_p1.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:158:move2_2_br_player_loc_p1 is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:158:move2_2_br_player_loc_p1.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:159:move2_3_dev_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:159:move2_3_dev_message is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:159:move2_3_dev_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:161:move2_3_dev_prop_owner.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:161:move2_3_dev_prop_owner is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:161:move2_3_dev_prop_owner.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:163:move2_3_sell_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:163:move2_3_sell_message is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:163:move2_3_sell_message.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:166:move2_3_sell_dev_stage.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:166:move2_3_sell_dev_stage is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:166:move2_3_sell_dev_stage.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:168:move2_3_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:168:move2_3_turntype is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:168:move2_3_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:170:move2_3_current_player.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:170:move2_3_current_player is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:170:move2_3_current_player.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:172:move2_3__transell_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:172:move2_3__transell_turntype is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:172:move2_3__transell_turntype.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:174:move2_3_transell_player_props.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:174:move2_3_transell_player_props is successful.
+2026-10-31T15:38:45+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:174:move2_3_transell_player_props.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:176:move2_3_transell_dev_stage.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:176:move2_3_transell_dev_stage is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:176:move2_3_transell_dev_stage.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:178:move2_3_br_turntype.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:178:move2_3_br_turntype is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:178:move2_3_br_turntype.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:179:move2_3_br_message.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:179:move2_3_br_message is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:179:move2_3_br_message.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:182:move2_3_br_property.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:182:move2_3_br_property is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:182:move2_3_br_property.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:184:move2_7_message.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:184:move2_7_message is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:184:move2_7_message.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:186:move2_7_player_loc_p1.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:186:move2_7_player_loc_p1 is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:186:move2_7_player_loc_p1.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:188:move2_7_dev_turntype.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:188:move2_7_dev_turntype is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:188:move2_7_dev_turntype.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:190:move2_7_dev_current_player.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:190:move2_7_dev_current_player is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:190:move2_7_dev_current_player.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:192:move2_7_dev_player_money.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:192:move2_7_dev_player_money is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:192:move2_7_dev_player_money.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:194:move2_7_dev_property_rent.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:194:move2_7_dev_property_rent is successful.
+2026-10-31T15:38:46+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:194:move2_7_dev_property_rent.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:196:move2_7_over_dev_message.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:196:move2_7_over_dev_message is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:196:move2_7_over_dev_message.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:198:move2_7_over_dev_player_loc_p1.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:198:move2_7_over_dev_player_loc_p1 is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:198:move2_7_over_dev_player_loc_p1.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:200:move2_7_over_dev_property_stage.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:200:move2_7_over_dev_property_stage is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:200:move2_7_over_dev_property_stage.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:202:move2_7_dev_turntype.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:202:move2_7_dev_turntype is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:202:move2_7_dev_turntype.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:204:move2_7_exp_dev_current_player.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:204:move2_7_exp_dev_current_player is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:204:move2_7_exp_dev_current_player.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:207:move2_7_exp_dev_property_stage.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:207:move2_7_exp_dev_property_stage is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:207:move2_7_exp_dev_property_stage.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:208:move2_7_exp_dev_property_rent.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:208:move2_7_exp_dev_property_rent is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:208:move2_7_exp_dev_property_rent.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:211:one_r_dev.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:211:one_r_dev is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:211:one_r_dev.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:213:two_r_owner_2.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:213:two_r_owner_2 is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:213:two_r_owner_2.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:215:two_r_dev_2.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:215:two_r_dev_2 is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:215:two_r_dev_2.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:217:r_dev_attempt_message.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:217:r_dev_attempt_message is successful.
+2026-10-31T15:38:47+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:217:r_dev_attempt_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:219:j1_cards.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:219:j1_cards is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:219:j1_cards.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:221:j3_cards.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:221:j3_cards is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:221:j3_cards.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:223:sell_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:223:sell_no_props_1_message is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:223:sell_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:225:sell_no_props_1_prop_owner.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:225:sell_no_props_1_prop_owner is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:225:sell_no_props_1_prop_owner.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:227:develop_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:227:develop_no_props_1_message is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:227:develop_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:230:develop_no_props_1_dev_stage.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:230:develop_no_props_1_dev_stage is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:230:develop_no_props_1_dev_stage.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:232:develop_no_props_r_player_props.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:232:develop_no_props_r_player_props is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:232:develop_no_props_r_player_props.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:233:develop_no_props_r_prop_owner.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:233:develop_no_props_r_prop_owner is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:233:develop_no_props_r_prop_owner.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:235:trade_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:235:trade_no_props_1_message is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:235:trade_no_props_1_message.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:237:trade_no_props_1_p2_props.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:237:trade_no_props_1_p2_props is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:237:trade_no_props_1_p2_props.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:239:trade_no_props_1_dev_stage.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:239:trade_no_props_1_dev_stage is successful.
+2026-10-31T15:38:48+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:239:trade_no_props_1_dev_stage.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:242:trade_no_props_2_p2_props.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:242:trade_no_props_2_p2_props is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:242:trade_no_props_2_p2_props.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:243:trade_no_props_2_prop_owner.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:243:trade_no_props_2_prop_owner is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:243:trade_no_props_2_prop_owner.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:246:trade_no_props_3_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:246:trade_no_props_3_p1_mon is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:246:trade_no_props_3_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:248:trade_no_props_4_message.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:248:trade_no_props_4_message is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:248:trade_no_props_4_message.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:249:trade_no_props_4_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:249:trade_no_props_4_p1_mon is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:249:trade_no_props_4_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:252:trade_offer_turntype.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:252:trade_offer_turntype is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:252:trade_offer_turntype.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:254:trade_no_props_4_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:254:trade_no_props_4_p1_mon is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:254:trade_no_props_4_p1_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:256:trade_decline_get_money_message.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:256:trade_decline_get_money_message is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:256:trade_decline_get_money_message.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:258:trade_decline_get_money_player.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:258:trade_decline_get_money_player is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:258:trade_decline_get_money_player.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:260:trade_decline_get_money_p2_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:260:trade_decline_get_money_p2_mon is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:260:trade_decline_get_money_p2_mon.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:261:trade_decline_get_money_message.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:261:trade_decline_get_money_message is successful.
+2026-10-31T15:38:49+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:261:trade_decline_get_money_message.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:263:trade_accept_get_money_player.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:263:trade_accept_get_money_player is successful.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:263:trade_accept_get_money_player.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: Start test state test suite:265:trade_accept_get_money_p2_mon.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: Test state test suite:265:trade_accept_get_money_p2_mon is successful.
+2026-10-31T15:38:50+00:00 DESKTOP-P6FAU4J#02 I: End test state test suite:265:trade_accept_get_money_p2_mon.
