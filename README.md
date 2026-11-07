@@ -1,5 +1,6 @@
 # Monopoly
 A simple Monopoly game. You can play with human or computer players
+With code by Anmol Kabra et al. With additional Code by Visual Studio Code and its Copilot. They are very cool. Thanks to JC and them.
 
 Keep the `boards` folder next to the executable. The game locates board files
 relative to the executable, so you can launch it from any working directory as
