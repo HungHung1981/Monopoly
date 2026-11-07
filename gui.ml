@@ -189,10 +189,12 @@ class key_binding_functions = object(self)
   method private handle_key_input = function
     | LTerm_event.Key {code = LTerm_key.Char c} ->
       begin
-        let open CamomileLibrary.UChar in
-        match key_assoc_opt (Ch (char_of c)) key_bindings with
-        | Some (_, f) -> f (); true
-        | None -> false
+        let code = Uchar.to_int c in
+        if code > 255 then false
+        else
+          match key_assoc_opt (Ch (Char.chr code)) key_bindings with
+          | Some (_, f) -> f (); true
+          | None -> false
       end
     | LTerm_event.Key {code = c} ->
       begin
@@ -1245,7 +1247,7 @@ class game_gui push_layer pop_layer exit' = object(self)
     editor#bind
       [{control = false; meta = false; shift = false; code = Enter}]
       [LTerm_edit.Custom (fun () ->
-        let input = String.lowercase_ascii editor#text in
+        let input = String.lowercase_ascii (Zed_string.to_utf8 editor#text) in
         if List.mem input (List.map String.lowercase_ascii lst) then (enter_callback input)
         else mess#set_text "ERROR : The entered element is not in the list.")];
     editor#bind
@@ -1369,7 +1371,7 @@ are immediately sent to jail.\n" in
     let help_str_lst = String.split_on_char '\n' help_message in
     (* this state is a dummy state *)
     let test_state = State.(init_state
-      (Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ "test_board.json")) ["a", GUI] ~random:true) in
+      (Yojson.Basic.from_file (Board_files.path "test_board.json")) ["a", GUI] ~random:true) in
     let (scr_box, adj) = self#scrollable_box `Message help_str_lst test_state in
     help_box#add scr_box;
 
@@ -1428,7 +1430,7 @@ are immediately sent to jail.\n" in
     editor#bind
       [{control = false; meta = false; shift = false; code = Enter}]
       [LTerm_edit.Custom (fun () -> pop_layer ();
-        enter_callback editor#text)];
+        enter_callback (Zed_string.to_utf8 editor#text))];
     input_f#set editor;
     input_box#add input_f;
     input_modal#set input_box;
@@ -1508,7 +1510,7 @@ are immediately sent to jail.\n" in
 
     let adj = new scrollable in
     let scroll = new vscrollbar adj in
-    let lst_handle = new scrollable_lst adj disp_lst in
+    let lst_handle = new scrollable_lst adj (List.map Zed_string.of_utf8 disp_lst) in
 
     let box = new hbox in
     box#add ~expand:true lst_handle;

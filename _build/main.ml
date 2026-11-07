@@ -10,6 +10,11 @@ type game_t = {
 (** [reset_game g] is a game with no state and no JSON file name. *)
 let reset_game g = {g with s = None; json_fname = None}
 
+let board_file fname =
+  Filename.concat
+    (Filename.concat (Filename.dirname Sys.executable_name) "boards")
+    fname
+
 (* TODO: finish implementation *)
 let rec handle_events g = function
   | [] -> g
@@ -39,7 +44,7 @@ and handle_pselect g p_cnts t =
     begin
       try
         if List.length p_cnts = 0 then raise (Failure "Select at least one player.") else ();
-        let s = State.init_state (Yojson.Basic.from_file ("boards" ^ Filename.dir_sep ^ fname)) p_cnts ~random:true in
+        let s = State.init_state (Yojson.Basic.from_file (board_file fname)) p_cnts ~random:true in
         let g' = {g with s = Some s} in
         g'.gui#update_state (Some s);
         g'.gui#activate_pdisplay_modal ();
