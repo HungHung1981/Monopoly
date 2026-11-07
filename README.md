@@ -15,3 +15,5 @@ included `boards` folder beside it.
 During a game, press `4` to view the board as a rectangular map. Spaces follow
 the order defined by the selected board file, so custom boards are displayed
 around the same perimeter layout as the classic board.
+
+Important: When you play you have to type in the name of the board you want to play: classic.json or 3110.json. Have fun
